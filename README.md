@@ -1,1 +1,2 @@
 # wowtcg-tracker-ios
+no
